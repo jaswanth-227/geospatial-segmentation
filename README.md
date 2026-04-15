@@ -1,4 +1,4 @@
-# 🛰️ Geospatial Feature Extraction using Multi-Model Deep Learning Pipeline
+# 🛰️ Geospatial Feature Extraction using Multi-Model Deep Learning 
 
 🚀 A scalable end-to-end geospatial AI system for extracting **buildings, road networks, road centerlines, and water bodies** from ultra-high-resolution satellite imagery and converting outputs into **GIS-ready vector formats (.gpkg)**.
 
