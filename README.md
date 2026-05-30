@@ -164,25 +164,22 @@ Load GeoTIFF input
 Run tiled inference
 Generate segmentation outputs
 Export GIS-ready files
+
 📥 Input
-
 Place GeoTIFF files inside:
-
 data/input_images/
-
 Example:
-
 data/input_images/sample.tif
+
 📤 Output
-
 Generated outputs:
-
 building_output.tif
 road_output.tif
 water_output.tif
 water_line_output.tif
 road_centerline_output.tif
 .gpkg GIS vector files
+
 ⚡ Technical Innovations
 🔲 Sliding window tiled inference for large images
 🧠 Multi-model routing architecture
@@ -191,12 +188,14 @@ road_centerline_output.tif
 🧹 Skeletonization-based centerline extraction
 🗺️ Raster → Vector GIS pipeline
 ⚡ Memory-efficient inference system
+
 📌 Challenges Solved
 Processing ultra-high-resolution satellite imagery (10k × 20k+)
 Multi-model spatial consistency
 Road centerline extraction from segmentation masks
 GPU memory optimization for inference
 Raster-to-GIS vector conversion
+
 🚀 Future Improvements
 🌐 Web-based GIS visualization dashboard
 🧭 Road graph network extraction
@@ -205,9 +204,10 @@ Raster-to-GIS vector conversion
 ⚡ Batch inference optimization
 
 👨‍💻 Authors
-Jaswanth, Sai Charan, Geethika, Pradeep 
-AI & ML Students
-Focus: Computer Vision | Geospatial AI | Deep Learning Systems
+Developed by:
+Jaswanth, Sai Charan, Geethika, Pradeep
+Research Areas:
+Computer Vision • Geospatial AI • Deep Learning • Remote Sensing
 
 🏁 Final Impact
 
