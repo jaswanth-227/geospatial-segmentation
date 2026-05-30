@@ -203,10 +203,10 @@ Raster-to-GIS vector conversion
 ☁️ Cloud deployment (FastAPI + Docker)
 📡 Real-time satellite inference API
 ⚡ Batch inference optimization
-👨‍💻 Author
 
-Sai Charan
-AI & ML Student
+👨‍💻 Authors
+Jaswanth, Sai Charan, Geethika, Pradeep 
+AI & ML Students
 Focus: Computer Vision | Geospatial AI | Deep Learning Systems
 
 🏁 Final Impact
